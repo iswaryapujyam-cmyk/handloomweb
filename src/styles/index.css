@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Handloom-inspired typography tweaks */
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply selection:bg-handloom-gold/20; }
+}
+
+

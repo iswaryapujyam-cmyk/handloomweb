@@ -1,0 +1,124 @@
+[
+  {
+    "id": 1,
+    "name": "Kanchipuram Silk Saree",
+    "priceINR": 4500,
+    "category": "Sarees",
+    "image": "https://thriyasilks.com/cdn/shop/files/5_45_ee0cd1fb-57ae-4c04-99d0-b59528836e5e.jpg?v=1721387887&width=1080",
+    "description": "Handwoven silk saree from Tamil Nadu.",
+    "colors": ["Red", "Gold"],
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Banarasi Brocade Saree",
+    "priceINR": 7800,
+    "category": "Sarees",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4RMZMt-h3n1svt18Wk7Y22J4N7uqSz2Whw&s",
+    "description": "Luxurious brocade saree from Varanasi with zari work.",
+    "colors": ["Gold", "Green"],
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "name": "Paithani Silk Saree",
+    "priceINR": 9200,
+    "category": "Sarees",
+    "image": "https://www.vastranand.in/cdn/shop/files/1_d6d32e9b-a03c-4f26-9f39-316b1884d43a.jpg?v=1743078844&width=1080",
+    "description": "Traditional Maharashtrian Paithani with peacock pallu.",
+    "colors": ["Blue", "Gold"],
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "name": "Handwoven Cotton Kurti",
+    "priceINR": 1500,
+    "category": "Ethnic Wear",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2zxK28An1kgpQpH5QoHtfLWVL1SrczpTmkA&s",
+    "description": "Breathable handloom cotton kurti for everyday elegance.",
+    "colors": ["White", "Blue"],
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "Ikat Dupatta",
+    "priceINR": 1200,
+    "category": "Dupattas",
+    "image": "https://thesstudioonline.com/cdn/shop/files/dp0117-2-67568158d63ba_8cd430e6-ecfd-4f40-9813-1455b5385a5f.webp?v=1733734781",
+    "description": "Vibrant Ikat dupatta with geometric motifs.",
+    "colors": ["Red", "Black"],
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "name": "Pashmina Shawl",
+    "priceINR": 11000,
+    "category": "Shawls & Stoles",
+    "image": "https://pashminavogue.com/wp-content/uploads/2024/09/IMG_10042-scaled.jpg",
+    "description": "Exquisite handwoven Pashmina from Kashmir.",
+    "colors": ["Cream", "Gold"],
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "name": "Handwoven Khadi Fabric (per meter)",
+    "priceINR": 450,
+    "category": "Fabrics",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB9rt7YrQTDjx2hqKkyqUIZ8RKGolLv45ZwQ&s",
+    "description": "Organic handspun and handwoven Khadi cotton fabric.",
+    "colors": ["White"],
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "name": "Handcrafted Jute Bag",
+    "priceINR": 900,
+    "category": "Bags",
+    "image": "https://sanskriti777.com/cdn/shop/files/IMG_7214_2_1024x.jpg?v=1704281601",
+    "description": "Eco-friendly jute tote bag with handloom accents.",
+    "colors": ["Brown", "Green"],
+    "stock": 30
+  },
+  {
+    "id": 9,
+    "name": "Handloom Silk Scarf",
+    "priceINR": 1600,
+    "category": "Scarves",
+    "image": "https://2.wlimg.com/product_images/bc-full/2024/2/7155413/handloom-silk-scarve-1706869836-7275562.jpg",
+    "description": "Soft silk scarf with artisanal dye patterns.",
+    "colors": ["Blue", "Gold"],
+    "stock": 18
+  },
+  {
+    "id": 10,
+    "name": "Handloom Cushion Cover Set (2)",
+    "priceINR": 1300,
+    "category": "Home Décor",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20240628/8bPZ/667eb0ef6f60443f31ef7ce2/-473Wx593H-465461550-black-MODEL.jpg",
+    "description": "Textured cushion covers with traditional weaves.",
+    "colors": ["Red", "Gold"],
+    "stock": 40
+  },
+  {
+    "id": 11,
+    "name": "Chanderi Silk Saree",
+    "priceINR": 5200,
+    "category": "Sarees",
+    "image": "https://www.fabpersona.com/cdn/shop/products/WhatsAppImage2023-01-18at11.58.13AM_1_1800x1800.jpg?v=1674025919",
+    "description": "Lightweight sheer Chanderi silk with zari borders.",
+    "colors": ["Green", "Gold"],
+    "stock": 9
+  },
+  {
+    "id": 12,
+    "name": "Ajrakh Print Dupatta",
+    "priceINR": 1400,
+    "category": "Dupattas",
+    "image": "https://shobitam.in/cdn/shop/files/RTS530_5.jpg?v=1753788885&width=1080",
+    "description": "Natural-dyed Ajrakh block print on soft cotton.",
+    "colors": ["Indigo", "Black"],
+    "stock": 22
+  }
+]
+
+

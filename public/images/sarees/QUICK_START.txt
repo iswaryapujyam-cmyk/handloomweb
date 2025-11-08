@@ -1,0 +1,39 @@
+QUICK START GUIDE - Adding Your Handloom Sarees Images
+=====================================================
+
+STEP 1: Save Your Images
+-------------------------
+Save your 9 handloom sarees images to this folder:
+   public/images/sarees/
+
+Name them exactly as:
+   saree_01.jpg
+   saree_02.jpg
+   saree_03.jpg
+   saree_04.jpg
+   saree_05.jpg
+   saree_06.jpg
+   saree_07.jpg
+   saree_08.jpg
+   saree_09.jpg
+
+STEP 2: Verify
+--------------
+Once saved, refresh your website and the images will appear automatically!
+
+The products.json file has already been updated to use these local image paths.
+
+IMAGE MAPPING:
+--------------
+Image 1 → Kanchipuram Silk Saree (Deep blue with orange border)
+Image 2 → Banarasi Brocade Saree (Pink with gold motifs)
+Image 3 → Paithani Silk Saree (Multi-colored striped)
+Image 4 → Handwoven Cotton Kurti (Green with pink/maroon border)
+Image 5 → Ikat Dupatta (Yellow with white floral patterns)
+Image 6 → Pashmina Shawl (Grey with black border)
+Image 7 → Handwoven Khadi Fabric (Teal with magenta/gold stripes)
+Image 8 → Handcrafted Jute Bag (Red Patola/Ikat style)
+Image 9 → Handloom Silk Scarf (Red/orange/yellow with patterns)
+
+For more details, see IMAGE_MAPPING.md in this folder.
+

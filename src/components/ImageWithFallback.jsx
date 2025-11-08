@@ -1,0 +1,28 @@
+const FALLBACK_DATA_URL =
+  'data:image/svg+xml;utf8,' +
+  encodeURIComponent(
+    `<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+      <defs>
+        <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#CBA135"/>
+          <stop offset="100%" stop-color="#B0413E"/>
+        </linearGradient>
+      </defs>
+      <rect width="100%" height="100%" fill="url(#g)"/>
+      <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="white">Handloom</text>
+    </svg>`
+  )
+
+export default function ImageWithFallback({ src, alt, className }) {
+  const onError = (e) => {
+    if (e.currentTarget.dataset.fallbackApplied) return
+    e.currentTarget.dataset.fallbackApplied = 'true'
+    e.currentTarget.src = FALLBACK_DATA_URL
+  }
+  return (
+    // eslint-disable-next-line jsx-a11y/alt-text
+    <img src={src} alt={alt} className={className} onError={onError} />
+  )
+}
+
+
