@@ -1,6 +1,31 @@
 import { useGlobal } from '../context/GlobalContext.jsx'
 
-const CATEGORIES = ['All','Sarees','Ethnic Wear','Dupattas','Shawls & Stoles','Fabrics','Bags','Scarves','Home Décor']
+const CATEGORIES = [
+  'All',
+  // Women's Categories
+  'Sarees',
+  'Ethnic Wear',
+  'Women\'s Western Wear',
+  'Women\'s Kurthi Sets',
+  'Dupattas',
+  'Shawls & Stoles',
+  'Scarves',
+  // Men's Categories
+  'Men\'s Shirts',
+  'Men\'s Pants',
+  'Men\'s Belts',
+  // Kids Category
+  'Kids Wear',
+  // Accessories
+  'Bags',
+  'Clutches',
+  'College Bags',
+  'Baskets',
+  'Water Bottle Holders',
+  // Other Categories
+  'Fabrics',
+  'Home Décor'
+]
 
 export default function CategoryFilter() {
   const { selectedCategory, setSelectedCategory } = useGlobal()

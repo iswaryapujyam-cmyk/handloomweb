@@ -1,16 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
 :root {
-  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1.5;
+  /* Modern Color Palette */
+  --color-primary: #6B4F4F;       /* Earthy Brown */
+  --color-secondary: #E6BA95;    /* Soft Peach */
+  --color-accent: #C68B59;       /* Terracotta */
+  --color-light: #FFF5EB;        /* Cream */
+  --color-dark: #3A3845;         /* Dark Slate */
+  --color-highlight: #FF9A76;    /* Coral */
+  --color-text: #333333;         /* Dark Gray */
+  --color-bg: #F8F4E3;          /* Light Beige */
+  
+  /* Gradients */
+  --gradient-primary: linear-gradient(135deg, #6B4F4F 0%, #C68B59 100%);
+  --gradient-secondary: linear-gradient(135deg, #E6BA95 0%, #FF9A76 100%);
+  
+  /* Shadows */
+  --shadow-sm: 0 2px 4px rgba(0,0,0,0.05);
+  --shadow-md: 0 4px 6px rgba(0,0,0,0.1);
+  --shadow-lg: 0 10px 15px rgba(0,0,0,0.1);
+  
+  /* Border Radius */
+  --radius-sm: 8px;
+  --radius-md: 12px;
+  --radius-lg: 16px;
+  
+  /* Transitions */
+  --transition: all 0.3s ease;
+  
+  /* Typography */
+  --font-primary: 'Poppins', sans-serif;
+  --font-secondary: 'Playfair Display', serif;
+  
+  font-family: var(--font-primary);
+  line-height: 1.6;
   font-weight: 400;
-
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
+  color: var(--color-text);
+  background-color: var(--color-bg);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+/* Handcrafted Elements */
+.handcrafted-border {
+  position: relative;
+  border: 2px dashed var(--color-accent);
+  border-radius: var(--radius-md);
+  padding: 1.5rem;
+  background: white;
+  box-shadow: var(--shadow-sm);
+}
+
+.handcrafted-border::before {
+  content: '';
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  border: 2px solid var(--color-secondary);
+  border-radius: var(--radius-md);
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Button Styles */
+.btn {
+  background: var(--gradient-primary);
+  color: white;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  border-radius: 50px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: var(--transition);
+  box-shadow: var(--shadow-sm);
+  cursor: pointer;
+}
+
+.btn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+  background: var(--gradient-secondary);
+}
+
+/* Card Styles */
+.product-card {
+  background: white;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: var(--transition);
+  box-shadow: var(--shadow-sm);
+  position: relative;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--shadow-lg);
+}
+
+.product-card::after {
+  content: 'HANDMADE';
+  position: absolute;
+  top: 10px;
+  right: -30px;
+  background: var(--color-accent);
+  color: white;
+  padding: 0.25rem 2rem;
+  transform: rotate(45deg);
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  box-shadow: var(--shadow-sm);
+}
+
+/* Category Badges */
+.category-badge {
+  background: var(--color-secondary);
+  color: var(--color-dark);
+  padding: 0.25rem 0.75rem;
+  border-radius: 50px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  display: inline-block;
+  margin: 0.25rem;
+  transition: var(--transition);
+}
+
+.category-badge:hover {
+  background: var(--color-accent);
+  color: white;
+  transform: scale(1.05);
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(10px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.fade-in {
+  animation: fadeIn 0.5s ease-out forwards;
+}
+
+/* Responsive Typography */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-secondary);
+  color: var(--color-primary);
+  font-weight: 600;
+  line-height: 1.2;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-light);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-accent);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary);
 }
 
 a {
