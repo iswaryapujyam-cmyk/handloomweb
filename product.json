@@ -1,0 +1,1233 @@
+[
+  {
+    "id": 1,
+    "name": "Kanchipuram Silk Saree",
+    "priceINR": 4500,
+    "category": "Sarees",
+    "image": "https://kankatala.com/cdn/shop/files/1214982567_1.jpg?v=1734458392",
+    "description": "Handwoven silk saree from Tamil Nadu.",
+    "colors": ["Red", "Gold"],
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Banarasi Brocade Saree",
+    "priceINR": 780
+,
+    "category": "Sarees",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN4RMZMt-h3n1svt18Wk7Y22J4N7uqSz2Whw&s",
+    "description": "Luxurious brocade saree from Varanasi with zari work.",
+    "colors": ["Gold", "Green"],
+    "stock": 8
+  },
+  {
+    "id": 3,
+    "name": "Maheshwari Cotton Silk Saree",
+    "priceINR": 9200,
+    "category": "Sarees",
+    "image": "https://indiehaat.com/cdn/shop/products/vQFcflN.jpg?v=1762402838",
+    "description": "Traditional Maharashtrian Paithani with peacock pallu.",
+    "colors": ["Blue", "Gold"],
+    "stock": 5
+  },
+  {
+    "id": 4,
+    "name": "Handwoven Cotton Kurti",
+    "priceINR": 1500,
+    "category": "Women's Kurthi Sets",
+    "image": "https://i0.wp.com/www.sanskriticuttack.com/wp-content/uploads/2023/10/616939120fcf1846769c07b400ae912b.jpg?resize=1020%2C1150&ssl=1",
+    "description": "Breathable handloom cotton kurti for everyday elegance.",
+    "colors": ["Black", "Orange"],
+    "stock": 20
+  },
+  {
+    "id": 5,
+    "name": "Ikat Dupatta",
+    "priceINR": 1200,
+    "category": "Dupattas",
+    "image": "https://thesstudioonline.com/cdn/shop/files/dp0117-2-67568158d63ba_8cd430e6-ecfd-4f40-9813-1455b5385a5f.webp?v=1733734781",
+    "description": "Vibrant Ikat dupatta with geometric motifs.",
+    "colors": ["Red", "Black"],
+    "stock": 25
+  },
+  {
+    "id": 6,
+    "name": "Handloom Red Mulberry Silk Plain Patola Saree",
+    "priceINR": 1100,
+    "category": " Sarees",
+    "image": "https://www.laxhaclothing.com/cdn/shop/articles/8102993d0fa915fec35f5bf9a8778239.png?v=1747742238",
+    "description": "Exquisite handwoven Pashmina from Kashmir.",
+    "colors": ["Gold", "red"],
+    "stock": 7
+  },
+  {
+    "id": 7,
+    "name": "Handwoven Khadi Fabric (per meter)",
+    "priceINR": 450,
+    "category": "Fabrics",
+    "image": "https://www.kiransboutique.com/wp-content/uploads/2021/12/1729176767071_Classic-Multicolor-Grey-Khadi-Cotton-Top-with-Floral-Hand-Block-Prints.jpeg",
+    "description": "Organic handspun and handwoven Khadi cotton fabric.",
+    "colors": ["White"],
+    "stock": 100
+  },
+  {
+    "id": 8,
+    "name": "Handcrafted Jute Bag",
+    "priceINR": 900,
+    "category": "Bags",
+    "image": "https://sanskriti777.com/cdn/shop/files/IMG_7214_2_1024x.jpg?v=1704281601",
+    "description": "Eco-friendly jute tote bag with handloom accents.",
+    "colors": ["Brown", "Green"],
+    "stock": 30
+  },
+  {
+    "id": 9,
+    "name": "Handloom Silk Scarf",
+    "priceINR": 1600,
+    "category": "Scarves",
+    "image": "https://shingora.net/cdn/shop/files/RKPRPHB124S00I3861N1BAB_2_2eb6471a-82e7-4f2a-9c4f-7bd6ae829891.jpg?v=1751719275&width=1080",
+    "description": "Soft silk scarf with artisanal dye patterns.",
+    "colors": ["Blue", "Gold"],
+    "stock": 18
+  },
+  {
+    "id": 10,
+    "name": "Handloom Cushion Cover Set",
+    "priceINR": 1300,
+    "category": "Home Décor",
+    "image": "https://assets.ajio.com/medias/sys_master/root/20240628/8bPZ/667eb0ef6f60443f31ef7ce2/-473Wx593H-465461550-black-MODEL.jpg",
+    "description": "Textured cushion covers with traditional weaves.",
+    "colors": ["Red", "Gold"],
+    "stock": 40
+  },
+  {
+    "id": 11,
+    "name": "Chanderi Silk Saree",
+    "priceINR": 5200,
+    "category": "Sarees",
+    "image": "https://www.fabpersona.com/cdn/shop/products/WhatsAppImage2023-01-18at11.58.13AM_1_1800x1800.jpg?v=1674025919",
+    "description": "Lightweight sheer Chanderi silk with zari borders.",
+    "colors": ["Green", "Gold"],
+    "stock": 9
+  },
+  {
+    "id": 12,
+    "name": "Ajrakh Print Dupatta",
+    "priceINR": 1400,
+    "category": "Dupattas",
+    "image": "https://shobitam.in/cdn/shop/files/RTS530_5.jpg?v=1753788885&width=1080",
+    "description": "Natural-dyed Ajrakh block print on soft cotton.",
+    "colors": ["Indigo", "Black"],
+    "stock": 22
+  },
+  {
+    "id": 13,
+    "name": "Tussar Silk Saree",
+    "priceINR": 5800,
+    "category": "Sarees",
+    "image": "https://vrikshamindia.com/cdn/shop/files/IMG_0725_3435cfb6-9055-4536-a32b-2c1ef2cc44b5.jpg?v=1732948139",
+    "description": "Elegant Tussar silk saree with traditional tribal motifs.",
+    "colors": ["Grey", "Black"],
+    "stock": 10
+
+  },
+  {
+    "id": 14,
+    "name": "silk paithani design with weaving zari work lehenga choli",
+    "priceINR": 1999,
+    "category": "Ethnic Wear",
+    "image": "https://assets0.mirraw.com/images/12457368/02-043337_zoom.jpg?1715666361",
+    "description": "Hand-painted Kalamkari cotton kurti with intricate detailing.",
+    "colors": ["Pink","Orange"],
+    "stock": 15
+  },
+  {
+    "id": 15,
+    "name": "Handloom Shawl",
+    "priceINR": 800,
+    "category": "Shawls & Stoles",
+    "image": "https://www.ahujasons.com/cdn/shop/files/Group_85509_1_NEW.png?format=pjpg&v=1753959861&width=1284",
+    "description": "Lightweight silk stole with traditional zari borders.",
+    "colors": ["Green", "Gold"],
+    "stock": 12
+  },
+  {
+    "id": 16,
+    "name": "Handloom Cotton Bedsheet Set",
+    "priceINR": 1100,
+    "category": "Home Décor",
+    "image": "https://cdn.vibecity.in/providers/6323151f3d0a980012453b9c/99f0eb42-07df-461d-afa1-20641db7071b_5a7c5450-18f1-46be-8ff7-ffe00a4d8e24-3X.png",
+    "description": "Pure cotton handloom bedsheet set with matching pillow covers.",
+    "colors": ["Beige", "Blue"],
+    "stock": 8
+  },
+  {
+    "id": 17,
+    "name": "Handloom Cotton Dress (Women's)",
+    "priceINR": 1400,
+    "category": "Women's Western Wear",
+    "image": "https://www.sujatra.com/cdn/shop/files/SN23AUG-LR_2778of1_copy_grande.jpg?v=1693988257",
+    "description": "Casual handloom cotton shirt with traditional block prints.",
+    "colors": ["White", "Blue", "Beige"],
+    "stock": 15
+  },
+  {
+    "id": 18,
+    "name": "Handloom Lace Pants (Women's)",
+    "priceINR": 1800,
+    "category": "Women's Western Wear",
+    "image": "https://www.nakshforyou.com/cdn/shop/files/20799902-1731664465059.png?v=1731691136&width=1445",
+    "description": "Comfortable linen pants with handwoven texture and elastic waistband.",
+    "colors": ["Beige", "White", "Black"],
+    "stock": 12
+  },
+  {
+    "id": 19,
+    "name": "Kalamkari Cotton Kurti",
+    "priceINR": 1800,
+    "category": "Women's Kurthi Sets",
+    "image": "https://i.pinimg.com/474x/bb/3c/9e/bb3c9efaa16618e7753259bcfd52ba64.jpg",
+    "description": "Hand-painted Kalamkari cotton kurti with intricate detailing.",
+    "colors": ["gold"],
+    "stock": 15
+  },
+  {
+    "id": 20,
+    "name": "Handloom Shirts (Men's)",
+    "priceINR": 1500,
+    "category": "Men's Shirts",
+    "image": "https://i.pinimg.com/736x/26/76/81/26768122faeb857e6510a015a9171127.jpg",
+    "description": "Classic handloom cotton shirt for men with traditional motifs.",
+    "colors": ["White", "Blue", "Beige"],
+    "stock": 18
+  },
+  {
+    "id": 21,
+    "name": "Handloom Dhoti Pants (Men's)",
+    "priceINR": 1600,
+    "category": "Men's Pants",
+    "image": "https://imagescdn.jaypore.com/img/app/product/3/39831175-16573698.jpg?w=500&auto=format",
+    "description": "Traditional dhoti pants in pure handloom cotton.",
+    "colors": ["White", "Beige", "Black"],
+    "stock": 8
+  },
+  {
+    "id": 22,
+    "name": "Handloom Belt (Men's)",
+    "priceINR": 950,
+    "category": "Men's Belts",
+    "image": "https://www.dial4trade.com/uploaded_files/product_images/thumbs/belts-and-ropes-for-belt-drop-hammer-machines-org-810982017929595422.jpg",
+    "description": "Handwoven cotton belt with traditional patterns.",
+    "colors": ["Brown", "Black", "Beige"],
+    "stock": 20
+  },
+  {
+    "id": 23,
+    "name": "Kids Handloom frock",
+    "priceINR": 1400,
+    "category": "Kids Wear",
+    "image": "https://mrignayani.org/wp-content/uploads/2022/08/IMG-4729.jpg",
+    "description": "Adorable handloom kurta set for kids with matching pyjamas.",
+    "colors": ["Red", "Blue", "Yellow"],
+    "stock": 15
+  },
+  {
+    "id": 24,
+    "name": "Handloom Tote Bag",
+    "priceINR": 1600,
+    "category": "Bags",
+    "image": "https://maahishmati.com/cdn/shop/files/CottonToteBagsSanganeriPrintedCottonHandbagsbyMaahishmatiSarees_4.jpg?v=1751663232&width=1946",
+    "description": "Stylish and eco-friendly handloom tote bag.",
+    "colors": ["Beige", "Blue", "Red"],
+    "stock": 25
+  },
+  {
+    "id": 25,
+    "name": "Handloom Clutch",
+    "priceINR": 1500,
+    "category": "Clutches",
+    "image": "https://www.anekaant.com/cdn/shop/files/ADB5196A_1.jpg?v=1753097102",
+    "description": "Elegant handloom clutch with zipper closure.",
+    "colors": ["Black", "Red", "Gold"],
+    "stock": 18
+  },
+  {
+    "id": 26,
+    "name": "Handloom College Bag",
+    "priceINR": 1800,
+    "category": "College Bags",
+    "image": "https://i.etsystatic.com/25837545/r/il/8b164b/4809781030/il_fullxfull.4809781030_sk4d.jpg",
+    "description": "Durable handloom college bag with multiple compartments.",
+    "colors": ["Blue", "Black", "Grey"],
+    "stock": 12
+  },
+  {
+    "id": 27,
+    "name": "Handwoven Basket",
+    "priceINR": 1200,
+    "category": "Baskets",
+    "image": "https://www.mianzi.in/cdn/shop/products/item_image_62e1741dbf32843b390b270c26b06fcb.jpg?v=1674906157&width=1946",
+    "description": "Handwoven natural fiber basket for storage.",
+    "colors": ["Natural", "Brown"],
+    "stock": 10
+  },
+  {
+    "id": 28,
+    "name": "Handloom Water Bottle Holder",
+    "priceINR": 400,
+    "category": "Water Bottle Holders",
+    "image": "https://m.media-amazon.com/images/I/61-iZj1Q5yL._AC_UF894,1000_QL80_.jpg",
+    "description": "Eco-friendly handloom water bottle holder with adjustable strap.",
+    "colors": ["Blue", "Red", "Green", "Yellow"],
+    "stock": 30
+  },
+  {
+    "id": 29,
+    "name": "Handloom Kota Doria Cotton Saree",
+    "priceINR": 3200,
+    "category": "Sarees",
+    "image": "https://www.luxurionworld.com/cdn/shop/products/pink-handloom-kota-doria-real-zari-two-piece-unstitched-suit-set-655402.jpg?v=1673257564&width=1445",
+    "description": "Lightweight and airy Kota Doria saree with delicate check patterns.",
+    "colors": ["White", "Pink", "Blue"],
+    "stock": 8
+  },
+  {
+    "id": 30,
+    "name": "Handloom Cotton Kurta Set",
+    "priceINR": 2200,
+    "category": "Kurtas",
+    "image": "https://sukritistore.com/cdn/shop/files/1_1a853475-73f4-4e51-8ea5-c645787d3fb4.jpg?v=1701434356",
+    "description": "Comfortable handloom cotton kurta with churidar and dupatta.",
+    "colors": ["Ivory", "Beige", "Mint"],
+    "stock": 12
+  },
+  {
+    "id": 31,
+    "name": "Tussar Silk Stole",
+    "priceINR": 1800,
+    "category": "Stoles",
+    "image": "https://vastraraag.com/cdn/shop/files/32FarvariProduction3_40fc5c20-3339-4587-8c52-7459bc97d8e5.jpg?v=1726060167",
+    "description": "Elegant Tussar silk stole with traditional motifs.",
+    "colors": ["Mustard", "Rust", "Olive"],
+    "stock": 15
+  },
+  {
+    "id": 32,
+    "name": "Handloom WallHanging",
+    "priceINR": 1500,
+    "category": "Home Décor",
+    "image": "https://www.tarangarts.com/product_image/s1200__aHR0cHM6Ly9zdGF0aWMudGFyYW5nYXJ0cy5jb20vcHJvZHVjdF9pbWFnZXMvczEyMDBfXzI5ODNfMjFfMS5qcGc=",
+    "description": "Vibrant handloom cotton cushion covers with geometric patterns.",
+    "colors": ["Blue-White", "Red-White", "Green-White"],
+    "stock": 10
+  },
+  {
+    "id": 33,
+    "name": "Banarasi Silk Lehenga",
+    "priceINR": 8500,
+    "category": "Lehengas",
+    "image": "https://tilfi.com/cdn/shop/products/WE0013-PureKatanSilkBanarasiHandloomLehengaYellow-38_1200x.jpg?v=1641803331",
+    "description": "Exquisite Banarasi silk lehenga with intricate zari work.",
+    "colors": ["Maroon", "Navy", "Emerald"],
+    "stock": 5
+  },
+  {
+    "id": 34,
+    "name": "Mysore Silk Saree",
+    "priceINR": 6800,
+    "category": "Sarees",
+    "image": "https://i0.wp.com/luxuryshukra.in/wp-content/uploads/2024/11/WhatsApp-Image-2024-10-03-at-7.57.13-PM-scaled.jpeg",
+    "description": "Pure Mysore silk saree with zari border and pallu.",
+    "colors": ["Peach", "Gold"],
+    "stock": 10
+  },
+  {
+    "id": 35,
+    "name": "Hand Embroidered Chikankari Anarkali Kurti",
+    "priceINR": 1500,
+    "category": "Women's Kurthi Sets",
+    "image": "https://assets0.mirraw.com/images/9043779/A411204_zoom.jpg?1690443106",
+    "description": "Elegant Chikankari work on cotton Anarkali kurti.",
+    "colors": ["White", "Pink"],
+    "stock": 15
+  },
+  {
+    "id": 36,
+    "name": "Cotton Ikat Dupatta",
+    "priceINR": 1800,
+    "category": "Dupattas",
+    "image": "https://cdn.exoticindia.com/images/products/original/textiles-2019/gai893.jpg",
+    "description": "Vibrant Bandhani tie-dye dupatta in soft cotton.",
+    "colors": ["blue", "Red"],
+    "stock": 20
+  },
+  {
+    "id": 37,
+    "name": "Handloom Table Runner",
+    "priceINR": 1200,
+    "category": "Home Décor",
+    "image": "https://earthyspace.com/cdn/shop/files/IMG_3538_jpg2.jpg?v=1711540817&width=1946",
+    "description": "Elegant handloom table runner with traditional motifs.",
+    "colors": ["Beige", "Blue"],
+    "stock": 12
+  },
+  {
+    "id": 38,
+    "name": "Jute Tote Bag",
+    "priceINR": 1100,
+    "category": "Bags",
+    "image": "https://tissli.com/cdn/shop/files/TOTE-02-006-01.jpg?v=1757612882&width=1445",
+    "description": "Eco-friendly jute tote bag with handloom accents.",
+    "colors": ["Brown", "Beige"],
+    "stock": 18
+  },
+  {
+    "id": 39,
+    "name": "Banarasi Organza Saree",
+    "priceINR": 7500,
+    "category": "Sarees",
+    "image": "https://www.chinayabanaras.com/cdn/shop/files/ORS-054_2_-LOW-RES-LOW-Chinayabanaras_800x.jpg?v=1763468227",
+    "description": "Sheer Banarasi organza saree with intricate zari work.",
+    "colors": ["Pink", "Silver"],
+    "stock": 8
+  },
+  {
+    "id": 40,
+    "name": "Kalamkari Straight Kurta",
+    "priceINR": 2200,
+    "category": "Women's Kurthi Sets",
+    "image": "https://www.sujatra.com/cdn/shop/products/SUJ09AUG002045copy-001_grande.jpg?v=1734081697",
+    "description": "Hand-painted Kalamkari straight cut kurta.",
+    "colors": ["Off-White", "Blue"],
+    "stock": 14
+  },
+  {
+    "id": 41,
+    "name": "Kota Doria Dupatta",
+    "priceINR": 1600,
+    "category": "Dupattas",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/10/461320252/BL/BY/LA/92391364/royal-purple-silk-kota-doria-handloom-zari-work-dupatta.jpg",
+    "description": "Lightweight Kota Doria dupatta with checks.",
+    "colors": ["White", "Pink"],
+    "stock": 16
+  },
+  {
+    "id": 42,
+    "name": "Handloom Cushion Covers (Set of 4)",
+    "priceINR": 1300,
+    "category": "Home Décor",
+    "image": "https://m.media-amazon.com/images/I/A1L1+yo1-8L._AC_UF894,1000_QL80_.jpg",
+    "description": "Set of 4 handloom cushion covers with traditional patterns.",
+    "colors": ["Multi-color"],
+    "stock": 10
+  },
+  {
+    "id": 43,
+    "name": "Handwoven Jhola Bag",
+    "priceINR": 1300,
+    "category": "Bags",
+    "image": "https://diybaazar.com/publicuploads/seller/products/crochet-jhola-bag-1-2_1714224312.jpg",
+    "description": "Traditional Indian jhola bag with tassels.",
+    "colors": ["Red", "lavender"],
+    "stock": 15
+  },
+  {
+    "id": 44,
+    "name": "Tussar Silk Saree with Zari",
+    "priceINR": 5800,
+    "category": "Sarees",
+    "image": "https://dailybuyys.com/cdn/shop/products/WhatsAppImage2020-07-09at9.10.41PM.jpg",
+    "description": "Pure Tussar silk saree with intricate zari work.",
+    "colors": ["Mustard", "Gold"],
+    "stock": 9
+  },
+  {
+    "id": 45,
+    "name": "Ajrakh Print Kurta Set",
+    "priceINR": 2800,
+    "category": "Women's Kurthi Sets",
+    "image": "https://m.media-amazon.com/images/I/71YYTJiYzXL._AC_UY1100_.jpg",
+    "description": "Hand-block printed Ajrakh kurta set with dupatta.",
+    "colors": ["Indigo", "White"],
+    "stock": 12
+  },
+  {
+    "id": 46,
+    "name": "Chiffon Dupatta with Zari",
+    "priceINR": 2100,
+    "category": "Dupattas",
+    "image": "https://aurabenaras.com/cdn/shop/products/IMG_4638_photo.jpg?v=1747909687&width=1080",
+    "description": "Sheer chiffon dupatta with zari border.",
+    "colors": ["Black", "Gold"],
+    "stock": 18
+  },
+  {
+    "id": 47,
+    "name": "Handloom Curtains (Pair)",
+    "priceINR": 3200,
+    "category": "Home Décor",
+    "image": "https://varsaca.com/cdn/shop/files/Purple_And_Sky_Blue_Assamese_Handloom_Sheer_Curtains.jpg?v=1726825798",
+    "description": "Elegant handloom curtains for your living space.",
+    "colors": ["Beige", "Blue"],
+    "stock": 7
+  },
+  {
+    "id": 48,
+    "name": "Leather Clutch with Handloom",
+    "priceINR": 2900,
+    "category": "Bags",
+    "image": "https://www.mizizi.in/wp-content/uploads/2021/12/WhatsApp-Image-2022-07-09-at-7.30.23-PM.jpeg",
+    "description": "Premium leather clutch with handloom fabric insert.",
+    "colors": ["Brown", "Black"],
+    "stock": 11
+  },
+  {
+    "id": 49,
+    "name": "Banarasi Silk Saree",
+    "priceINR": 8500,
+    "category": "Sarees",
+    "image": "https://www.karagiri.com/cdn/shop/products/banarasi-saree-raven-black-banarasi-saree-silk-saree-online-23821563199681.jpg?v=1763731113&width=300",
+    "description": "Exquisite Banarasi silk saree with intricate zari work.",
+    "colors": ["Red", "Gold"],
+    "stock": 8
+  },
+  {
+    "id": 50,
+    "name": "Kanjivaram Silk Saree",
+    "priceINR": 9500,
+    "category": "Sarees",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8Zgo6c1Jab01oHUIdLo_8EjdX0pAVSB3OQ&s",
+    "description": "Traditional Kanjivaram silk saree with temple border.",
+    "colors": ["Green", "Gold"],
+    "stock": 6
+  },
+  {
+    "id": 51,
+    "name": "Chanderi Cotton Saree",
+    "priceINR": 5500,
+    "category": "Sarees",
+    "image": "https://kapaaskatha.in/cdn/shop/files/handloom-chanderi-cotton-silk-kalamkari-saree-front-view.jpg?v=1750479965&width=1214",
+    "description": "Lightweight Chanderi cotton saree with zari accents.",
+    "colors": ["Pink", "Silver"],
+    "stock": 10
+  },
+  {
+    "id": 52,
+    "name": "Tussar Silk Saree",
+    "priceINR": 6500,
+    "category": "Sarees",
+    "image": "https://assets0.mirraw.com/images/12163950/image_zoom.jpeg?1704389505",
+    "description": "Elegant Tussar silk saree with traditional motifs.",
+    "colors": ["Mustard", "Brown"],
+    "stock": 7
+  },
+  {
+    "id": 53,
+    "name": "Paithani Silk Saree",
+    "priceINR": 12500,
+    "category": "Sarees",
+    "image": "https://www.geetgaurifashion.com/image/catalog/products/sarees/pathansilk/GGFA77-SANG.jpeg",
+    "description": "Luxurious Paithani silk saree with peacock motif.",
+    "colors": ["Purple", "Gold"],
+    "stock": 4
+  },
+  {
+    "id": 54,
+    "name": "Anarkali Kurti Set",
+    "priceINR": 2800,
+    "category": "Women's Kurthi Sets",
+    "image": "https://maabetii.com/cdn/shop/files/handloom-cotton-kurta-khadi-dupatta-set-01.webp?v=1750951720",
+    "description": "Elegant Anarkali kurti set with churidar and dupatta.",
+    "colors": ["Blue", "Pink"],
+    "stock": 12
+  },
+  {
+    "id": 55,
+    "name": "Straight Cut Kurti",
+    "priceINR": 1800,
+    "category": "Women's Kurthi Sets",
+    "image": "https://www.sujatra.com/cdn/shop/products/NOVA2322_c58faadb-8c3d-48ee-91a6-0fcb35941967_grande.jpg?v=1710935945",
+    "description": "Casual straight cut kurti with side slits.",
+    "colors": ["Black", "White"],
+    "stock": 15
+  },
+  {
+    "id": 56,
+    "name": "A-Line Kurti",
+    "priceINR": 2200,
+    "category": "Women's Kurthi Sets",
+    "image": "https://www.sujatra.com/cdn/shop/products/NOVA1206_1024x1024.jpg?v=1734081772",
+    "description": "Flattering A-line kurti with printed design.",
+    "colors": ["Green", "Yellow"],
+    "stock": 10
+  },
+  {
+    "id": 57,
+    "name": "Asymmetrical Kurti",
+    "priceINR": 2500,
+    "category": "Women's Kurthi Sets",
+    "image": "https://static3.azafashions.com/tr:w-450/uploads/product_gallery/1705143261322_1.jpg",
+    "description": "Stylish asymmetrical hemline kurti.",
+    "colors": ["Red", "Black"],
+    "stock": 8
+  },
+  {
+    "id": 58,
+    "name": "Angrakha Kurti",
+    "priceINR": 3200,
+    "category": "Women's Kurthi Sets",
+    "image": "https://bandhanijaipur.com/cdn/shop/files/WhatsAppImage2025-02-17at12.05.01.jpg?v=1740043925",
+    "description": "Traditional Angrakha style kurti with tie-up detail.",
+    "colors": ["Ivory", "Gold"],
+    "stock": 6
+  },
+  {
+    "id": 59,
+    "name": "Bandhani Dupatta",
+    "priceINR": 1800,
+    "category": "Dupattas",
+    "image": "https://www.vivarang.com/cdn/shop/files/bandhani_ajrakh_dupatta.jpg?v=1747658256",
+    "description": "Colorful Bandhani tie-dye dupatta.",
+    "colors": ["Yellow", "Red"],
+    "stock": 20
+  },
+  {
+    "id": 60,
+    "name": "Chiffon Dupatta",
+    "priceINR": 1500,
+    "category": "Dupattas",
+    "image": "https://jhakhas.com/cdn/shop/products/Purple_Chiffon_Dupatta.jpg?v=1644047717&width=360",
+    "description": "Sheer chiffon dupatta with zari border.",
+    "colors": ["Black", "Gold"],
+    "stock": 15
+  },
+  {
+    "id": 61,
+    "name": "Silk Dupatta",
+    "priceINR": 2200,
+    "category": "Dupattas",
+    "image": "https://banarasweavesclothing.com/cdn/shop/files/rn-image_picker_lib_temp_9827ac0d-b697-4416-8105-6cd6f8db84b3_1024x1024@2x.jpg?v=1696831930",
+    "description": "Luxurious silk dupatta with embroidery.",
+    "colors": ["Red", "Maroon"],
+    "stock": 12
+  },
+  {
+    "id": 62,
+    "name": "Net Dupatta",
+    "priceINR": 1900,
+    "category": "Dupattas",
+    "image": "https://www.neelcreationsbysaanvi.com/cdn/shop/files/IMG_6220_Large_a8d3465f-5de3-452e-910c-c8ad42c0230b.jpg?v=1741060552",
+    "description": "Elegant net dupatta with sequin work.",
+    "colors": ["White", "Silver"],
+    "stock": 10
+  },
+  {
+    "id": 63,
+    "name": "Cotton Dupatta",
+    "priceINR": 1200,
+    "category": "Dupattas",
+    "image": "https://d35l77wxi0xou3.cloudfront.net/opencart/image/productFromFeb2020/1629884164-600x600.jpeg",
+    "description": "Lightweight cotton dupatta with block prints.",
+    "colors": ["Blue", "Green"],
+    "stock": 18
+  },
+  {
+    "id": 64,
+    "name": "Handloom Cushion Covers (Set of 2)",
+    "priceINR": 1800,
+    "category": "Home Décor",
+    "image": "https://www.kopaipaar.com/wp-content/uploads/2019/10/Cushion-Leaf-Cut-Set2-600x480.jpg",
+    "description": "Set of 2 handloom cushion covers with traditional patterns.",
+    "colors": ["Multi-color"],
+    "stock": 10
+  },
+  {
+    "id": 65,
+    "name": "Table Runner",
+    "priceINR": 1500,
+    "category": "Home Décor",
+    "image": "https://m.media-amazon.com/images/I/811102Gaq0L.jpg",
+    "description": "Elegant handloom table runner with traditional motifs.",
+    "colors": ["Beige", "Blue"],
+    "stock": 12
+  },
+  {
+    "id": 66,
+    "name": "Curtains (Pair)",
+    "priceINR": 4500,
+    "category": "Home Décor",
+    "image": "https://varsaca.com/cdn/shop/files/Red_And_Sky_Blue_Assamese_Handloom_Sheer_Curtains.jpg?v=1726825838&width=1920",
+    "description": "Handloom cotton curtains with tie-up detail.",
+    "colors": ["Beige", "Brown"],
+    "stock": 5
+  },
+  {
+    "id": 67,
+    "name": "Bedspread",
+    "priceINR": 3800,
+    "category": "Home Décor",
+    "image": "https://s.alicdn.com/@sc04/kf/UTB8WxJJDxHEXKJk43Jexh5eeXXaL/Hand-Block-Print-Pure-Cotton-Bed-Sheet-Set-Indian-Print-Bedding-Sets.jpeg_300x300.jpg",
+    "description": "Handloom cotton bedspread with traditional prints.",
+    "colors": ["Blue", "White"],
+    "stock": 7
+  },
+  {
+    "id": 68,
+    "name": "Wall Hanging",
+    "priceINR": 2500,
+    "category": "Home Décor",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2024/2/390767472/EN/OD/AZ/23281492/macrame-wall-hanging.jpg",
+    "description": "Decorative handloom wall hanging with tassels.",
+    "colors": ["Red", "Gold"],
+    "stock": 8
+  },
+  {
+    "id": 69,
+    "name": "Jute Tote Bag",
+    "priceINR": 1200,
+    "category": "Bags",
+    "image": "https://i.pinimg.com/736x/99/a5/24/99a5249d9f1d033d08d7a5e627e60d59.jpg",
+    "description": "Eco-friendly jute tote bag with handloom accents.",
+    "colors": ["Brown", "Beige"],
+    "stock": 15
+  },
+  {
+    "id": 70,
+    "name": "Clutch",
+    "priceINR": 1800,
+    "category": "Bags",
+    "image": "https://www.gonecase.in/cdn/shop/files/Gardenhandembroideredclutchbagbygonecase_1080x.jpg?v=1764255973",
+    "description": "Stylish handloom clutch with zipper closure.",
+    "colors": ["Black", "Red"],
+    "stock": 12
+  },
+  {
+    "id": 71,
+    "name": "Sling Bag",
+    "priceINR": 2200,
+    "category": "Bags",
+    "image": "https://www.jiomart.com/images/product/original/rvaewpodrr/anekaant-boho-natural-pastel-multi-embellished-handloom-cotton-sling-bag-product-images-rvaewpodrr-0-202308020848.jpg?im=Resize=(500,630)",
+    "description": "Trendy handloom sling bag with adjustable strap.",
+    "colors": ["Blue", "Green"],
+    "stock": 10
+  },
+  {
+    "id": 72,
+    "name": "Potli Bag",
+    "priceINR": 1500,
+    "category": "Bags",
+    "image": "https://godhulionlinestore.com/cdn/shop/files/IMG20241120100449.jpg?v=1732250677&width=1946",
+    "description": "Traditional potli bag with handloom work.",
+    "colors": ["Red", "Gold"],
+    "stock": 18
+  },
+  {
+    "id": 73,
+    "name": "Backpack",
+    "priceINR": 2800,
+    "category": "Bags",
+    "image": "https://i.etsystatic.com/25837545/r/il/ec1562/4921953233/il_fullxfull.4921953233_f8w3.jpg",
+    "description": "Stylish handloom backpack with multiple compartments.",
+    "colors": ["Black", "Grey"],
+    "stock": 8
+  },
+  {
+    "id": 74,
+    "name": "Cotton Kurta Set",
+    "priceINR": 1999,
+    "category": "Men's Wear",
+    "image": "https://m.media-amazon.com/images/I/71DVZ7bj18L._AC_UY350_.jpg",
+    "description": "Comfortable cotton kurta set for men with churidar and dupatta.",
+    "colors": ["White", "Blue", "Beige"],
+    "stock": 15
+  },
+  {
+    "id": 75,
+    "name": "Pathani Suit",
+    "priceINR": 2499,
+    "category": "Men's Wear",
+    "image": "https://pictures.kartmax.in/live/inside/800x800/sites/9s145MyZrWdIAwpU0JYS/product-images/classic_black_cotton_pathani_suit_17105035569701_4a.jpg",
+    "description": "Elegant pathani suit with detailed embroidery work.",
+    "colors": ["Black", "Navy", "Grey"],
+    "stock": 12
+  },
+  {
+    "id": 76,
+    "name": "Indo-Western Jacket",
+    "priceINR": 2999,
+    "category": "Men's Wear",
+    "image": "https://www.bonsoir.co.in/cdn/shop/files/Green_Velvet_Indo-Western_with_Sequin_Work.jpg?crop=center&height=4328&v=1730190209&width=2717",
+    "description": "Stylish indo-western jacket with traditional motifs.",
+    "colors": ["Brown", "Black"],
+    "stock": 10
+  },
+  {
+    "id": 77,
+    "name": "Bandhgala Suit",
+    "priceINR": 3499,
+    "category": "Men's Wear",
+    "image": "https://www.bonsoir.co.in/cdn/shop/files/Grey_Designer_Bandhgala_suit.jpg?v=1748426212",
+    "description": "Royal bandhgala suit for special occasions.",
+    "colors": ["Black", "Navy", "Burgundy"],
+    "stock": 8
+  },
+  {
+    "id": 78,
+    "name": "Linen Shirt with Nehru Jacket",
+    "priceINR": 2799,
+    "category": "Men's Wear",
+    "image": "https://assets0.mirraw.com/images/11704005/image_zoom.jpeg?1708547002",
+    "description": "Lightweight linen shirt with matching nehru jacket.",
+    "colors": ["Beige", "Light Blue", "Pink"],
+    "stock": 14
+  },
+  {
+    "id": 79,
+    "name": "Cotton Dhoti Pants",
+    "priceINR": 1299,
+    "category": "Men's Pants",
+    "image": "https://www.dheu.in/cdn/shop/products/BDD1019_1.jpg?v=1627563502",
+    "description": "Comfortable cotton dhoti pants for traditional wear.",
+    "colors": ["White", "Beige", "Black"],
+    "stock": 20
+  },
+  {
+    "id": 80,
+    "name": "Linen Palazzo Pants",
+    "priceINR": 1599,
+    "category": "Men's Pants",
+    "image": "https://d29lkp7s2wd4pq.cloudfront.net/small/Gray-Cotton-Handloom-Men-Pant-36577.jpg",
+    "description": "Breathable linen palazzo pants with elastic waist.",
+    "colors": ["Beige", "Grey", "Navy"],
+    "stock": 15
+  },
+  {
+    "id": 81,
+    "name": "Silk Churidar Pants",
+    "priceINR": 1899,
+    "category": "Men's Pants",
+    "image": "https://assets0.mirraw.com/images/12073762/image_zoom.jpeg?1701242957",
+    "description": "Elegant silk churidar pants for traditional occasions.",
+    "colors": ["Black", "Navy", "Maroon"],
+    "stock": 12
+  },
+  {
+    "id": 82,
+    "name": "Cotton Pyjama",
+    "priceINR": 1099,
+    "category": "Men's Pants",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Comfortable cotton pyjama for daily wear.",
+    "colors": ["White", "Black", "Grey"],
+    "stock": 25
+  },
+  {
+    "id": 83,
+    "name": "Jacquard Silk Pants",
+    "priceINR": 2299,
+    "category": "Men's Pants",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Luxurious jacquard silk pants with intricate patterns.",
+    "colors": ["Gold", "Burgundy", "Navy"],
+    "stock": 10
+  },
+  {
+    "id": 84,
+    "name": "Handwoven Wall Hanging",
+    "priceINR": 1899,
+    "category": "Home Décor",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Intricately designed handwoven wall hanging.",
+    "colors": ["Multi-color"],
+    "stock": 8
+  },
+  {
+    "id": 85,
+    "name": "Bamboo Basket Set",
+    "category": "Baskets",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Set of 3 handwoven bamboo baskets in different sizes.",
+    "colors": ["Natural", "Brown"],
+    "stock": 15
+  },
+  {
+    "id": 86,
+    "name": "Embroidered Clutch",
+    "priceINR": 1599,
+    "category": "Clutches",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Hand-embroidered clutch with mirror work.",
+    "colors": ["Red", "Black", "Gold"],
+    "stock": 10
+  },
+  {
+    "id": 87,
+    "name": "Jute Tote Bag",
+    "priceINR": 899,
+    "category": "Tote Bags",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Eco-friendly jute tote bag with handloom fabric lining.",
+    "colors": ["Natural", "Brown", "Beige"],
+    "stock": 20
+  },
+  {
+    "id": 88,
+    "name": "Handloom Cotton Fabric",
+    "priceINR": 499,
+    "category": "Fabrics",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Pure handloom cotton fabric per meter.",
+    "colors": ["Blue", "Red", "Green", "Yellow"],
+    "stock": 50
+  },
+  {
+    "id": 89,
+    "name": "Kids Kurta Pyjama Set",
+    "priceINR": 1299,
+    "category": "Kids Wear",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Adorable kurta pyjama set for kids with embroidery.",
+    "colors": ["Blue", "Pink", "White"],
+    "stock": 18
+  },
+  {
+    "id": 90,
+    "name": "Pashmina Scarf",
+    "priceINR": 2499,
+    "category": "Scarves",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Luxurious pashmina scarf with hand-rolled edges.",
+    "colors": ["Ivory", "Grey", "Black"],
+    "stock": 10
+  },
+  {
+    "id": 91,
+    "name": "Banarasi Silk Stole",
+    "priceINR": 1899,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Elegant Banarasi silk stole with zari border.",
+    "colors": ["Red", "Green", "Blue"],
+    "stock": 12
+  },
+  {
+    "id": 92,
+    "name": "Silk Kurta Set",
+    "priceINR": 3499,
+    "category": "Men's Wear",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Pure silk kurta set with churidar and dupatta.",
+    "colors": ["Ivory", "Beige", "Light Blue"],
+    "stock": 8
+  },
+  {
+    "id": 93,
+    "name": "Linen Kurta Set",
+    "priceINR": 2799,
+    "category": "Men's Wear",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Premium linen kurta set for summer wear.",
+    "colors": ["Beige", "White", "Light Grey"],
+    "stock": 10
+  },
+  {
+    "id": 94,
+    "name": "Cotton Churidar",
+    "priceINR": 1599,
+    "category": "Men's Pants",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Comfortable cotton churidar for traditional wear.",
+    "colors": ["White", "Black", "Beige"],
+    "stock": 15
+  },
+  {
+    "id": 95,
+    "name": "Silk Churidar",
+    "priceINR": 2299,
+    "category": "Men's Pants",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Premium silk churidar for special occasions.",
+    "colors": ["Black", "Navy", "Maroon"],
+    "stock": 10
+  },
+  {
+    "id": 96,
+    "name": "Decorative Throw Pillow",
+    "priceINR": 1299,
+    "category": "Home Décor",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Hand-embroidered decorative throw pillow.",
+    "colors": ["Red", "Blue", "Green"],
+    "stock": 12
+  },
+  {
+    "id": 97,
+    "name": "Table Runner",
+    "priceINR": 899,
+    "category": "Home Décor",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Handwoven table runner with tassels.",
+    "colors": ["Beige", "White", "Grey"],
+    "stock": 15
+  },
+  {
+    "id": 98,
+    "name": "Round Storage Basket",
+    "priceINR": 1599,
+    "category": "Baskets",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Handwoven round storage basket with lid.",
+    "colors": ["Natural", "Brown"],
+    "stock": 8
+  },
+  {
+    "id": 99,
+    "name": "Picnic Basket",
+    "priceINR": 1999,
+    "category": "Baskets",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Large picnic basket with handles and compartments.",
+    "colors": ["Brown", "Black"],
+    "stock": 6
+  },
+  {
+    "id": 100,
+    "name": "Beaded Clutch",
+    "priceINR": 1899,
+    "category": "Clutches",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Elegant beaded clutch for evening wear.",
+    "colors": ["Gold", "Silver", "Black"],
+    "stock": 9
+  },
+  {
+    "id": 101,
+    "name": "Silk Clutch",
+    "priceINR": 2199,
+    "category": "Clutches",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Luxurious silk clutch with zari work.",
+    "colors": ["Red", "Green", "Blue"],
+    "stock": 7
+  },
+  {
+    "id": 102,
+    "name": "Canvas Tote Bag",
+    "priceINR": 1299,
+    "category": "Tote Bags",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Durable canvas tote bag with leather handles.",
+    "colors": ["Beige", "Black", "Navy"],
+    "stock": 12
+  },
+  {
+    "id": 103,
+    "name": "Linen Tote Bag",
+    "priceINR": 1499,
+    "category": "Tote Bags",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Eco-friendly linen tote bag with inner pocket.",
+    "colors": ["Natural", "Blue", "Grey"],
+    "stock": 10
+  },
+  {
+    "id": 104,
+    "name": "Silk Fabric",
+    "priceINR": 899,
+    "category": "Fabrics",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Pure silk fabric per meter.",
+    "colors": ["Red", "Green", "Blue", "Gold"],
+    "stock": 30
+  },
+  {
+    "id": 105,
+    "name": "Cotton Silk Fabric",
+    "priceINR": 699,
+    "category": "Fabrics",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Cotton silk blend fabric per meter.",
+    "colors": ["Pink", "Yellow", "Purple", "Orange"],
+    "stock": 25
+  },
+  {
+    "id": 106,
+    "name": "Kids Lehenga Choli",
+    "priceINR": 1999,
+    "category": "Kids Wear",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Beautiful lehenga choli set for girls.",
+    "colors": ["Pink", "Red", "Purple"],
+    "stock": 10
+  },
+  {
+    "id": 107,
+    "name": "Kids Sherwani Set",
+    "priceINR": 2499,
+    "category": "Kids Wear",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Royal sherwani set for boys with embroidery.",
+    "colors": ["Ivory", "Gold", "Maroon"],
+    "stock": 8
+  },
+  {
+    "id": 108,
+    "name": "Kids Ethnic Set",
+    "priceINR": 1799,
+    "category": "Kids Wear",
+    "image": "https://m.media-amazon.com/images/I/71pQZ5QwZbL._AC_UL320_.jpg",
+    "description": "Comfortable ethnic set for kids.",
+    "colors": ["Blue", "Green", "Red"],
+    "stock": 12
+  },
+  {
+    "id": 109,
+    "name": "Silk Scarf",
+    "priceINR": 1599,
+    "category": "Scarves",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Lightweight silk scarf with printed design.",
+    "colors": ["Blue", "Green", "Pink"],
+    "stock": 15
+  },
+  {
+    "id": 110,
+    "name": "Woolen Scarf",
+    "priceINR": 1899,
+    "category": "Scarves",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Warm woolen scarf for winter.",
+    "colors": ["Grey", "Black", "Navy"],
+    "stock": 10
+  },
+  {
+    "id": 111,
+    "name": "Printed Scarf",
+    "priceINR": 1299,
+    "category": "Scarves",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Cotton printed scarf for all seasons.",
+    "colors": ["Multi-color"],
+    "stock": 18
+  },
+  {
+    "id": 112,
+    "name": "Pashmina Stole",
+    "priceINR": 2799,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Luxurious pashmina stole with embroidery.",
+    "colors": ["Ivory", "Beige", "Grey"],
+    "stock": 8
+  },
+  {
+    "id": 113,
+    "name": "Silk Stole",
+    "priceINR": 1999,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Elegant silk stole with zari border.",
+    "colors": ["Red", "Green", "Blue"],
+    "stock": 10
+  },
+  {
+    "id": 114,
+    "name": "Cotton Stole",
+    "priceINR": 899,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Lightweight cotton stole for daily wear.",
+    "colors": ["White", "Black", "Grey"],
+    "stock": 20
+  },
+  {
+    "id": 115,
+    "name": "Kashmiri Kani Stole",
+    "priceINR": 3499,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Authentic Kashmiri Kani stole with intricate patterns.",
+    "colors": ["Red", "Blue", "Green"],
+    "stock": 6
+  },
+  {
+    "id": 116,
+    "name": "Block Print Stole",
+    "priceINR": 1299,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Hand block print cotton stole.",
+    "colors": ["Blue", "Red", "Black"],
+    "stock": 15
+  },
+  {
+    "id": 117,
+    "name": "Kanjivaram Silk Stole",
+    "priceINR": 2999,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Pure Kanjivaram silk stole with zari border.",
+    "colors": ["Gold", "Maroon", "Green"],
+    "stock": 7
+  },
+  {
+    "id": 118,
+    "name": "Chiffon Stole",
+    "priceINR": 999,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Sheer chiffon stole with printed design.",
+    "colors": ["Pink", "Blue", "Purple"],
+    "stock": 18
+  },
+  {
+    "id": 119,
+    "name": "Wool Blend Stole",
+    "priceINR": 1699,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Warm wool blend stole for winter.",
+    "colors": ["Grey", "Black", "Navy"],
+    "stock": 12
+  },
+  {
+    "id": 120,
+    "name": "Banarasi Silk Stole with Zari",
+    "priceINR": 2599,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Elegant Banarasi silk stole with intricate zari work.",
+    "colors": ["Red", "Green", "Blue"],
+    "stock": 9
+  },
+  {
+    "id": 121,
+    "name": "Cotton Linen Stole",
+    "priceINR": 1199,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Breathable cotton linen stole for all seasons.",
+    "colors": ["Beige", "White", "Grey"],
+    "stock": 20
+  },
+  {
+    "id": 122,
+    "name": "Kashmiri Aari Stole",
+    "priceINR": 2899,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Exquisite Kashmiri Aari embroidered stole.",
+    "colors": ["Ivory", "Beige", "Pink"],
+    "stock": 6
+  },
+  {
+    "id": 123,
+    "name": "Tussar Silk Stole",
+    "priceINR": 2199,
+    "category": "Stoles",
+    "image": "https://m.media-amazon.com/images/I/61X5QkZQZbL._AC_UL320_.jpg",
+    "description": "Pure Tussar silk stole with natural texture.",
+    "colors": ["Gold", "Brown", "Beige"],
+    "stock": 8
+  }
+]
